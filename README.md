@@ -7,4 +7,4 @@
 - 📫 How to reach me ...
 
 ## 📈 GitHub Stats
-![Atif's GitHub stats](https://github-readme-stats.vercel.app/api?"atifkaloodi1"=your-username&show_icons=true&theme=radical)
+![Atif's GitHub stats](https://github-readme-stats.vercel.app/api?username=atifkaloodi1&show_icons=true&theme=radical)
